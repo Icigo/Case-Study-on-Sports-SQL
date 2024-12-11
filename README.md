@@ -20,7 +20,6 @@ Tools - Microsoft SQL Server
 4. What are the top 3 wins by runs?
 
 ![Screenshot 2024-07-10 132853](https://github.com/Icigo/Case-Study-on-Sports-SQL/assets/97022380/5ea4eb0b-e073-404b-9825-146bdac08dae)
-![Screenshot 2024-07-10 132932](https://github.com/Icigo/Case-Study-on-Sports-SQL/assets/97022380/c051955b-41b2-4f01-9ad6-385332792623)
 
 5. Month in which most ODI's were played
 
